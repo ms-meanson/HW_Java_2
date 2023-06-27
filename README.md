@@ -1,2 +1,2 @@
-# HW_Java_2
+# HW_Java_1.github.io
 Java Homework 2
